@@ -94,12 +94,6 @@ Visit `http://localhost:5173` 🎉
 
 ---
 
-## 📸 Screenshots
-
-> Coming soon - add your app screenshots here!
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
@@ -122,6 +116,7 @@ This project is open-source and available under the MIT License.
 **Ashwin Yadav**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ashwin--0055-black?logo=github)](https://github.com/Ashwin-0055)
+hustlerashwin2400@gmail.com
 
 ---
 
